@@ -6,8 +6,8 @@ The training dataset contains 3500 entries with 39 variables, while the test set
 Steps in the project:
 
 - Data cleaning, feature engineering, scaling, EDA
-- Hyper parameter tuning and model selection: Linear regression, XGBoost, Random forest, Ridge, Gradient Boosted, Kernel Ridge, Bagging, Adaptive Boost, Multiple Layer Perceptron
-- Other model tests: stacking regressor, feature importance, feature selection and extraction (PCA LDA KPCA)
+- Hyper parameter tuning and model selection: Linear regression, XGBoost, Random forest, Gradient Boosted
+- Other model tests: feature importance, feature selection and extraction 
 - Method of evaluation: RMSE
 - Gradient Boosted model did the best on this dataset to predict car prices.
 
