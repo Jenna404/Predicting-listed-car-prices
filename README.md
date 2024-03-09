@@ -13,9 +13,9 @@ Steps in the project:
 
 Skills Evaluated:
 
-Understanding the problem
-Dataset Cleaning
-Missing Value Imputation
-Feature Engineering
-Employing advanced regression methodologies such as random forest and gradient boosting
-Finding and recommending the best forecasting model
+- Understanding the problem
+- Dataset Cleaning
+- Missing Value Imputation
+- Feature Engineering
+- Employing advanced regression methodologies such as random forest and gradient boosting
+- Finding and recommending the best forecasting model
