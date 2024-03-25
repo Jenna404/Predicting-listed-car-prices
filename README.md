@@ -3,11 +3,19 @@ The objective is to forecast the prices of listed cars on the basis of car attri
 
 The training dataset contains 3500 entries with 39 variables, while the test set includes 1500 observations of 38 variables. The target variable is the price.
 
+Steps in the project:
+
+- Data cleaning, feature engineering, scaling, EDA
+- Hyper parameter tuning and model selection: Linear regression, XGBoost, Random forest, Gradient Boosted
+- Other model tests: feature importance, feature selection and extraction 
+- Method of evaluation: RMSE
+- Gradient Boosted model did the best on this dataset to predict car prices.
+
 Skills Evaluated:
 
-Understanding the problem
-Dataset Cleaning
-Missing Value Imputation
-Feature Engineering
-Employing advanced regression methodologies such as random forest and gradient boosting
-Finding and recommending the best forecasting model
+- Understanding the problem
+- Dataset Cleaning
+- Missing Value Imputation
+- Feature Engineering
+- Employing advanced regression methodologies such as random forest and gradient boosting
+- Finding and recommending the best forecasting model
